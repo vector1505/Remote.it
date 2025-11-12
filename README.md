@@ -123,19 +123,4 @@ This is a simple, modular structure that makes it easy to extend: add authentica
 3. Add tests or verify the UI manually
 4. Open a pull request with a short description of the change
 
-If you add new server endpoints or socket messages, update the top-level README and add small usage examples in the relevant `client`/`server` folders.
-
-## License
-
-This repository currently has no explicit license file. If you want to use or publish this code, add a `LICENSE` file (for example, MIT) and update this README accordingly.
-
----
-
-If you'd like, I can:
-
-- Add a `LICENSE` file (MIT or other) and link it here.
-- Add small run scripts at the root (convenience scripts) to start both client and server with one command.
-- Create a short `docs/dev-architecture.md` that diagrams sockets and PTY flow.
-
-Tell me which extra items you'd like and I'll add them.
 
